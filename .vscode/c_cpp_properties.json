@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/build/_deps/json-src/include",
+                "${workspaceFolder}/build/_deps/websocketpp-src",
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/src",
+                "/usr/local/include",
+                "/opt/homebrew/include",
+                "/opt/homebrew/opt/boost/include",
+                "/opt/homebrew/opt/openssl/include",
+                "/usr/local/opt/boost/include",
+                "/usr/local/opt/openssl/include",
+                "${workspaceFolder}/build/_deps/json-src/include",
+                "/opt/homebrew/opt/libwebsockets/include",
+                "/usr/local/opt/libwebsockets/include"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-x64",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "systemIncludePath": [
+                "/opt/homebrew/opt/libwebsockets/include",
+                "/usr/local/opt/libwebsockets/include"
+            ]
+        }
+    ],
+    "version": 4
+}
