@@ -1,0 +1,276 @@
+[2025-01-05 12:43:42.048] [info] Trading strategy updated to: 0
+[2025-01-05 12:43:42.048] [info] Risk level updated to: 2
+[2025-01-05 12:43:46.302] [info] Starting automated trading with 0 strategy
+[2025-01-05 12:43:46.513] [info] Insufficient price history. Current size: 1
+[2025-01-05 12:43:46.513] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:46.513] [info] Price History Size: 1
+[2025-01-05 12:43:47.113] [info] Insufficient price history. Current size: 2
+[2025-01-05 12:43:47.113] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:47.113] [info] Price History Size: 2
+[2025-01-05 12:43:47.753] [info] Insufficient price history. Current size: 3
+[2025-01-05 12:43:47.753] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:47.753] [info] Price History Size: 3
+[2025-01-05 12:43:48.314] [info] Insufficient price history. Current size: 4
+[2025-01-05 12:43:48.314] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:48.314] [info] Price History Size: 4
+[2025-01-05 12:43:48.916] [info] Insufficient price history. Current size: 5
+[2025-01-05 12:43:48.916] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:48.916] [info] Price History Size: 5
+[2025-01-05 12:43:49.552] [info] Insufficient price history. Current size: 6
+[2025-01-05 12:43:49.552] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:49.552] [info] Price History Size: 6
+[2025-01-05 12:43:50.120] [info] Insufficient price history. Current size: 7
+[2025-01-05 12:43:50.120] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:50.120] [info] Price History Size: 7
+[2025-01-05 12:43:50.726] [info] Insufficient price history. Current size: 8
+[2025-01-05 12:43:50.726] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:50.726] [info] Price History Size: 8
+[2025-01-05 12:43:51.305] [warning] Insufficient price history. Defaulting to buy direction.
+[2025-01-05 12:43:51.305] [warning] Insufficient price history. Using default order size.
+[2025-01-05 12:43:51.452] [info] Insufficient price history. Current size: 9
+[2025-01-05 12:43:51.452] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:51.452] [info] Price History Size: 9
+[2025-01-05 12:43:52.028] [info] Current RSI: 50
+[2025-01-05 12:43:52.028] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:52.028] [info] Price History Size: 10
+[2025-01-05 12:43:52.672] [info] Current RSI: 50
+[2025-01-05 12:43:52.672] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:52.672] [info] Price History Size: 10
+[2025-01-05 12:43:52.941] [info] Initial position entered - Order ID: 30622378884, Direction: buy, Amount: 30, Price: 98362
+[2025-01-05 12:43:53.238] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 0, Lowest: -315
+[2025-01-05 12:43:53.238] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:43:53.238] [info] Price History Size: 10
+[2025-01-05 12:43:53.833] [info] Position P&L Update - Order ID: 30622378884, Current P&L: 1740, Highest: 1740, Lowest: -315
+[2025-01-05 12:43:53.833] [info] Price Update - Bid: 98420, Ask: 98449, Mid: 98434.5
+[2025-01-05 12:43:53.833] [info] Price History Size: 10
+[2025-01-05 12:43:54.449] [info] Position P&L Update - Order ID: 30622378884, Current P&L: 1740, Highest: 1740, Lowest: -315
+[2025-01-05 12:43:54.449] [info] Price Update - Bid: 98420, Ask: 98449, Mid: 98434.5
+[2025-01-05 12:43:54.449] [info] Price History Size: 10
+[2025-01-05 12:43:55.147] [info] Position P&L Update - Order ID: 30622378884, Current P&L: 1740, Highest: 1740, Lowest: -315
+[2025-01-05 12:43:55.147] [info] Price Update - Bid: 98420, Ask: 98449, Mid: 98434.5
+[2025-01-05 12:43:55.147] [info] Price History Size: 10
+[2025-01-05 12:43:55.807] [info] Position P&L Update - Order ID: 30622378884, Current P&L: 1740, Highest: 1740, Lowest: -315
+[2025-01-05 12:43:55.807] [info] Price Update - Bid: 98420, Ask: 98449, Mid: 98434.5
+[2025-01-05 12:43:55.807] [info] Price History Size: 10
+[2025-01-05 12:43:56.423] [info] Position P&L Update - Order ID: 30622378884, Current P&L: 1740, Highest: 1740, Lowest: -315
+[2025-01-05 12:43:56.423] [info] Price Update - Bid: 98420, Ask: 98449, Mid: 98434.5
+[2025-01-05 12:43:56.423] [info] Price History Size: 10
+[2025-01-05 12:43:57.133] [info] Position P&L Update - Order ID: 30622378884, Current P&L: 1740, Highest: 1740, Lowest: -315
+[2025-01-05 12:43:57.133] [info] Price Update - Bid: 98420, Ask: 98449, Mid: 98434.5
+[2025-01-05 12:43:57.133] [info] Price History Size: 10
+[2025-01-05 12:43:57.748] [info] Position P&L Update - Order ID: 30622378884, Current P&L: 1740, Highest: 1740, Lowest: -315
+[2025-01-05 12:43:57.748] [info] Price Update - Bid: 98420, Ask: 98449, Mid: 98434.5
+[2025-01-05 12:43:57.748] [info] Price History Size: 10
+[2025-01-05 12:43:58.450] [info] Position P&L Update - Order ID: 30622378884, Current P&L: 1740, Highest: 1740, Lowest: -315
+[2025-01-05 12:43:58.450] [info] Price Update - Bid: 98420, Ask: 98449, Mid: 98434.5
+[2025-01-05 12:43:58.450] [info] Price History Size: 10
+[2025-01-05 12:43:59.109] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -2295, Highest: 1740, Lowest: -2295
+[2025-01-05 12:43:59.109] [info] Price Update - Bid: 98285.5, Ask: 98362, Mid: 98323.75
+[2025-01-05 12:43:59.109] [info] Price History Size: 10
+[2025-01-05 12:43:59.694] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -2295, Highest: 1740, Lowest: -2295
+[2025-01-05 12:43:59.694] [info] Price Update - Bid: 98285.5, Ask: 98362, Mid: 98323.75
+[2025-01-05 12:43:59.694] [info] Price History Size: 10
+[2025-01-05 12:44:00.309] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -2295, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:00.309] [info] Price Update - Bid: 98285.5, Ask: 98362, Mid: 98323.75
+[2025-01-05 12:44:00.309] [info] Price History Size: 10
+[2025-01-05 12:44:00.919] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -2295, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:00.919] [info] Price Update - Bid: 98285.5, Ask: 98362, Mid: 98323.75
+[2025-01-05 12:44:00.919] [info] Price History Size: 10
+[2025-01-05 12:44:01.487] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:01.487] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:01.487] [info] Price History Size: 10
+[2025-01-05 12:44:02.093] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:02.093] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:02.093] [info] Price History Size: 10
+[2025-01-05 12:44:02.679] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:02.679] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:02.679] [info] Price History Size: 10
+[2025-01-05 12:44:03.277] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:03.277] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:03.277] [info] Price History Size: 10
+[2025-01-05 12:44:03.887] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:03.887] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:03.887] [info] Price History Size: 10
+[2025-01-05 12:44:04.457] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:04.457] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:04.457] [info] Price History Size: 10
+[2025-01-05 12:44:05.095] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:05.095] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:05.095] [info] Price History Size: 10
+[2025-01-05 12:44:05.668] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:05.668] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:05.668] [info] Price History Size: 10
+[2025-01-05 12:44:06.282] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:06.282] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:06.282] [info] Price History Size: 10
+[2025-01-05 12:44:06.839] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:06.839] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:06.839] [info] Price History Size: 10
+[2025-01-05 12:44:07.492] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:07.492] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:07.492] [info] Price History Size: 10
+[2025-01-05 12:44:08.081] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -315, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:08.081] [info] Price Update - Bid: 98351.5, Ask: 98362, Mid: 98356.75
+[2025-01-05 12:44:08.081] [info] Price History Size: 10
+[2025-01-05 12:44:08.662] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:08.662] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:08.662] [info] Price History Size: 10
+[2025-01-05 12:44:09.289] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:09.289] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:09.289] [info] Price History Size: 10
+[2025-01-05 12:44:09.899] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:09.899] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:09.899] [info] Price History Size: 10
+[2025-01-05 12:44:10.535] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:10.535] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:10.535] [info] Price History Size: 10
+[2025-01-05 12:44:11.232] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:11.232] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:11.232] [info] Price History Size: 10
+[2025-01-05 12:44:11.790] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:11.790] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:11.790] [info] Price History Size: 10
+[2025-01-05 12:44:12.582] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:12.582] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:12.582] [info] Price History Size: 10
+[2025-01-05 12:44:13.147] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:13.147] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:13.147] [info] Price History Size: 10
+[2025-01-05 12:44:13.811] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:13.811] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:13.811] [info] Price History Size: 10
+[2025-01-05 12:44:14.390] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:14.390] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:14.390] [info] Price History Size: 10
+[2025-01-05 12:44:14.974] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:14.974] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:14.974] [info] Price History Size: 10
+[2025-01-05 12:44:15.564] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:15.564] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:15.564] [info] Price History Size: 10
+[2025-01-05 12:44:16.095] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:16.095] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:16.095] [info] Price History Size: 10
+[2025-01-05 12:44:16.759] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:16.759] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:16.759] [info] Price History Size: 10
+[2025-01-05 12:44:17.362] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:17.362] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:17.362] [info] Price History Size: 10
+[2025-01-05 12:44:18.014] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:18.014] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:18.014] [info] Price History Size: 10
+[2025-01-05 12:44:18.586] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:18.586] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:18.586] [info] Price History Size: 10
+[2025-01-05 12:44:19.294] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:19.294] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:19.294] [info] Price History Size: 10
+[2025-01-05 12:44:19.902] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:19.902] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:19.902] [info] Price History Size: 10
+[2025-01-05 12:44:20.662] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:20.663] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:20.663] [info] Price History Size: 10
+[2025-01-05 12:44:21.222] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:21.222] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:21.222] [info] Price History Size: 10
+[2025-01-05 12:44:21.886] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:21.886] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:21.886] [info] Price History Size: 10
+[2025-01-05 12:44:22.423] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:22.423] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:22.423] [info] Price History Size: 10
+[2025-01-05 12:44:23.181] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:23.181] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:23.181] [info] Price History Size: 10
+[2025-01-05 12:44:23.809] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:23.809] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:23.809] [info] Price History Size: 10
+[2025-01-05 12:44:24.519] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:24.519] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:24.519] [info] Price History Size: 10
+[2025-01-05 12:44:25.187] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:25.187] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:25.187] [info] Price History Size: 10
+[2025-01-05 12:44:25.770] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:25.770] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:25.770] [info] Price History Size: 10
+[2025-01-05 12:44:26.394] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:26.394] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:26.394] [info] Price History Size: 10
+[2025-01-05 12:44:26.955] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:26.955] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:26.955] [info] Price History Size: 10
+[2025-01-05 12:44:27.563] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:27.563] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:27.563] [info] Price History Size: 10
+[2025-01-05 12:44:28.150] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:28.150] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:28.150] [info] Price History Size: 10
+[2025-01-05 12:44:28.678] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:28.678] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:28.678] [info] Price History Size: 10
+[2025-01-05 12:44:29.280] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:29.280] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:29.280] [info] Price History Size: 10
+[2025-01-05 12:44:29.836] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:29.836] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:29.836] [info] Price History Size: 10
+[2025-01-05 12:44:30.402] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:30.402] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:30.402] [info] Price History Size: 10
+[2025-01-05 12:44:30.991] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:30.991] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:30.991] [info] Price History Size: 10
+[2025-01-05 12:44:31.661] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:31.661] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:31.661] [info] Price History Size: 10
+[2025-01-05 12:44:32.245] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:32.245] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:32.245] [info] Price History Size: 10
+[2025-01-05 12:44:32.789] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:32.789] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:32.789] [info] Price History Size: 10
+[2025-01-05 12:44:33.512] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:33.512] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:33.512] [info] Price History Size: 10
+[2025-01-05 12:44:34.117] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:34.117] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:34.117] [info] Price History Size: 10
+[2025-01-05 12:44:34.873] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:34.873] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:34.873] [info] Price History Size: 10
+[2025-01-05 12:44:35.533] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:35.533] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:35.533] [info] Price History Size: 10
+[2025-01-05 12:44:36.245] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:36.245] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:36.245] [info] Price History Size: 10
+[2025-01-05 12:44:36.821] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:36.821] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:36.821] [info] Price History Size: 10
+[2025-01-05 12:44:37.448] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:37.448] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:37.448] [info] Price History Size: 10
+[2025-01-05 12:44:38.012] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:38.012] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:38.012] [info] Price History Size: 10
+[2025-01-05 12:44:38.646] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:38.646] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:38.646] [info] Price History Size: 10
+[2025-01-05 12:44:39.239] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:39.239] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:39.239] [info] Price History Size: 10
+[2025-01-05 12:44:39.846] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:39.846] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:39.846] [info] Price History Size: 10
+[2025-01-05 12:44:40.451] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:40.451] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:40.451] [info] Price History Size: 10
+[2025-01-05 12:44:41.048] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:41.048] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:41.048] [info] Price History Size: 10
+[2025-01-05 12:44:41.646] [info] Position P&L Update - Order ID: 30622378884, Current P&L: -210, Highest: 1740, Lowest: -2295
+[2025-01-05 12:44:41.646] [info] Price Update - Bid: 98355, Ask: 98362, Mid: 98358.5
+[2025-01-05 12:44:41.646] [info] Price History Size: 10

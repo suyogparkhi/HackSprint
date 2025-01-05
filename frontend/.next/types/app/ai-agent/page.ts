@@ -1,4 +1,4 @@
-// File: D:\Projects\trading_fe\app\ai-agent\page.tsx
+// File: /Users/suyog/Desktop/hacksprint main/HackSprint/frontend/app/ai-agent/page.tsx
 import * as entry from '../../../../app/ai-agent/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,7 +1,5 @@
 {
-  "/analytics/page": "app/analytics/page.js",
-  "/trading/page": "app/trading/page.js",
   "/ai-agent/page": "app/ai-agent/page.js",
-  "/risk/page": "app/risk/page.js",
-  "/settings/page": "app/settings/page.js"
+  "/page": "app/page.js",
+  "/trading/page": "app/trading/page.js"
 }

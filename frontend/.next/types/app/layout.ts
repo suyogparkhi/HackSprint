@@ -1,4 +1,4 @@
-// File: D:\Projects\trading_fe\app\layout.tsx
+// File: /Users/suyog/Desktop/hacksprint main/HackSprint/frontend/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
